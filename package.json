@@ -7,10 +7,10 @@
   "homepage": "https://crawlertoll.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhrzxxw9dn-web/crawlertoll-x402-js.git"
+    "url": "git+https://github.com/charthouse-ltd/crawlertoll-x402-js.git"
   },
   "bugs": {
-    "url": "https://github.com/nhrzxxw9dn-web/crawlertoll-x402-js/issues"
+    "url": "https://github.com/charthouse-ltd/crawlertoll-x402-js/issues"
   },
   "keywords": [
     "x402",

@@ -228,7 +228,7 @@ For other assets, pass `asset` + `extra` to `defineQuote()`.
 Run them:
 
 ```bash
-git clone https://github.com/nhrzxxw9dn-web/crawlertoll-x402-js
+git clone https://github.com/charthouse-ltd/crawlertoll-x402-js
 cd crawlertoll-x402-js
 npm install
 npm test
@@ -271,3 +271,7 @@ npm test
 ## License
 
 [Apache-2.0](./LICENSE). The x402 standard itself is open under LF governance.
+
+## Trademark
+
+CrawlerToll™ is a trademark of Charthouse Ltd.
